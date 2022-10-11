@@ -1,2 +1,4 @@
-export const Escena = (props) => {return (<div>{props.history}</div>)};
+import { EscenaStyled } from "./EscenaStyled";
+
+export const Escena = (props) => {return (<EscenaStyled>{props.history}</EscenaStyled>)};
 
