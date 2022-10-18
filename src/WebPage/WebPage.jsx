@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ButtonStyled } from '../components/Button/ButtonStyled';
-import { Escena } from '../components/Escena/Escena';
+import {Escena } from '../components/Escena/Escena'
 import { ImgStyled } from '../GeneralStyled';
 import { history } from '../history/history';
 
